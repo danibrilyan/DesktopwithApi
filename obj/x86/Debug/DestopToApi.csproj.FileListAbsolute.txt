@@ -1,0 +1,13 @@
+F:\Brilyan Project\IT\DestopToApi\obj\x86\Debug\DestopToApi.csprojResolveAssemblyReference.cache
+F:\Brilyan Project\IT\DestopToApi\obj\x86\Debug\DestopToApi.Form1.resources
+F:\Brilyan Project\IT\DestopToApi\obj\x86\Debug\DestopToApi.Properties.Resources.resources
+F:\Brilyan Project\IT\DestopToApi\obj\x86\Debug\DestopToApi.csproj.GenerateResource.Cache
+F:\Brilyan Project\IT\DestopToApi\bin\Debug\DestopToApi.exe
+F:\Brilyan Project\IT\DestopToApi\bin\Debug\DestopToApi.pdb
+F:\Brilyan Project\IT\DestopToApi\bin\Debug\ClosedXML.dll
+F:\Brilyan Project\IT\DestopToApi\bin\Debug\DocumentFormat.OpenXml.dll
+F:\Brilyan Project\IT\DestopToApi\bin\Debug\ClosedXML.xml
+F:\Brilyan Project\IT\DestopToApi\obj\x86\Debug\DestopToApi.exe
+F:\Brilyan Project\IT\DestopToApi\obj\x86\Debug\DestopToApi.pdb
+F:\Brilyan Project\IT\DestopToApi\bin\Debug\Newtonsoft.Json.dll
+F:\Brilyan Project\IT\DestopToApi\bin\Debug\Newtonsoft.Json.xml
